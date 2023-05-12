@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
  
     <groupId>br.unicamp.ic.inf335</groupId>
-    <artifactId>t4</artifactId>
+    <artifactId>t5</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
  
-    <name>t4</name>
+    <name>t5</name>
     <url>http://www.example.com</url>
  
     <properties>
